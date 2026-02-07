@@ -23,7 +23,11 @@
     }
 
     if (key === "ArrowLeft") {
-      window.location.href = listUrl;
+      if (window.history.length > 1) {
+        window.history.back();
+      } else {
+        window.location.href = listUrl;
+      }
     }
     if (key === "ArrowUp") {
       if (!detailBody) return;

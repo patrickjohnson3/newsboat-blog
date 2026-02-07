@@ -84,7 +84,7 @@ header {
 
 .row {
   display: grid;
-  grid-template-columns: 110px 12px 90px 12px 1fr;
+  grid-template-columns: 110px 12px 1fr;
   gap: 5px;
   align-items: center;
   padding: 2px 4px;
@@ -106,19 +106,21 @@ header {
   text-align: right;
 }
 
-.row .category {
-  font-size: 11px;
-  color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  text-align: left;
-}
-
 .row .sep {
   font-size: 12px;
   color: rgba(226, 230, 235, 0.4);
   text-align: center;
   justify-self: center;
+}
+
+.row .title-wrap {
+  min-width: 0;
+}
+
+.row .tags {
+  font-size: 11px;
+  color: var(--muted);
+  letter-spacing: 0.3px;
 }
 
 .row.active {
@@ -183,6 +185,30 @@ header {
 
 .detail-body p {
   margin: 0 0 16px 0;
+}
+
+.detail-tags {
+  margin-top: 12px;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.detail-tags-sep {
+  margin-top: 22px;
+  border-top: 1px solid var(--border);
+}
+
+.detail-tags-label {
+  color: var(--accent);
+}
+
+.detail-tags a {
+  color: var(--accent-2);
+}
+
+.detail-tags a:hover {
+  text-decoration: underline;
 }
 
 footer {

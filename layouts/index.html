@@ -19,9 +19,9 @@
             <div class="row" data-index="{{ $i }}">
               <div class="meta">{{ $p.Date.Format "Jan 02, 2006" }}</div>
               <div class="sep">|</div>
-              <div class="category">{{ with $p.Params.tags }}{{ index . 0 }}{{ end }}</div>
-              <div class="sep">|</div>
-              <a class="title" href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
+              <div class="title-wrap">
+                <a class="title" href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>{{ with $p.Params.tags }}<span class="tags"> — [{{ delimit . ", " }}]</span>{{ end }}
+              </div>
             </div>
           {{ end }}
           <div class="sentinel" id="sentinel"></div>

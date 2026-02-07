@@ -3,6 +3,7 @@
   const sentinel = document.getElementById("sentinel");
   const countPill = document.getElementById("countPill");
   const statusText = document.getElementById("statusText");
+  const backOnLeft = document.body?.dataset?.backOnLeft || "";
 
   if (!listView) return;
 
@@ -84,13 +85,20 @@
   const handleKey = (event) => {
     if (shouldIgnoreKeyEvent(event)) return;
     const key = event.key;
-    if (["ArrowUp", "ArrowDown", "ArrowRight"].includes(key)) {
+    if (["ArrowUp", "ArrowDown", "ArrowRight"].includes(key) || (key === "ArrowLeft" && backOnLeft === "history")) {
       event.preventDefault();
     }
 
     if (key === "ArrowUp") moveSelection(-1);
     if (key === "ArrowDown") moveSelection(1);
     if (key === "ArrowRight") openSelected();
+    if (key === "ArrowLeft" && backOnLeft === "history") {
+      if (window.history.length > 1) {
+        window.history.back();
+      } else {
+        window.location.href = "/";
+      }
+    }
   };
 
   const updateCount = () => {

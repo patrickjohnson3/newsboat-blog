@@ -3,10 +3,14 @@
   <head>
     {{ partial "head.html" . }}
   </head>
-  <body class="infinite">
+  <body class="infinite" data-back-on-left="history">
     <div class="app" id="app">
       <header>
-        <div class="brand"><a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a></div>
+        <div class="brand">
+          <a href="{{ .Site.Home.RelPermalink }}">
+            {{ .Site.Title }}{{ if and (eq .Kind "term") (eq .Data.Singular "tag") }} — {{ .Title }}{{ end }}
+          </a>
+        </div>
         <div class="hint">Use Up / Down / Right</div>
       </header>
 
@@ -19,9 +23,9 @@
             <div class="row" data-index="{{ $i }}">
               <div class="meta">{{ $p.Date.Format "Jan 02, 2006" }}</div>
               <div class="sep">|</div>
-              <div class="category">{{ with $p.Params.tags }}{{ index . 0 }}{{ end }}</div>
-              <div class="sep">|</div>
-              <a class="title" href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
+              <div class="title-wrap">
+                <a class="title" href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>{{ with $p.Params.tags }}<span class="tags"> — [{{ delimit . ", " }}]</span>{{ end }}
+              </div>
             </div>
           {{ end }}
           <div class="sentinel" id="sentinel"></div>
