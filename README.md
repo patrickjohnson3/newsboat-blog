@@ -1,5 +1,7 @@
 # Newsboat Blog (Hugo)
 
+This is a vibe coded project.
+
 A Newsboat-inspired blog template built with Hugo.
 
 ## Live Site
