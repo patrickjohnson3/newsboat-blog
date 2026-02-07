@@ -6,6 +6,7 @@
 
   if (!listView) return;
 
+  const LAST_POST_KEY = "newsboat:last-post-path";
   let selectedIndex = 0;
   let loading = false;
   let buffer = [];
@@ -27,12 +28,49 @@
     }
   };
 
+  const normalizePath = (url) => {
+    try {
+      const parsed = new URL(url, window.location.origin);
+      const path = parsed.pathname.replace(/\/+$/, "");
+      return path || "/";
+    } catch {
+      return null;
+    }
+  };
+
+  const saveSelection = (row) => {
+    if (!row) return;
+    const link = row.querySelector("a");
+    if (!link) return;
+    const path = normalizePath(link.href);
+    if (!path) return;
+    sessionStorage.setItem(LAST_POST_KEY, path);
+  };
+
+  const restoreSelection = () => {
+    const savedPath = sessionStorage.getItem(LAST_POST_KEY);
+    if (!savedPath) return false;
+    const rows = getRows();
+    const index = rows.findIndex((row) => {
+      const link = row.querySelector("a");
+      if (!link) return false;
+      return normalizePath(link.href) === savedPath;
+    });
+    if (index < 0) return false;
+    selectedIndex = index;
+    setActive(selectedIndex);
+    return true;
+  };
+
   const openSelected = () => {
     const rows = getRows();
     const row = rows[selectedIndex];
     if (!row) return;
     const link = row.querySelector("a");
-    if (link) window.location.href = link.href;
+    if (link) {
+      saveSelection(row);
+      window.location.href = link.href;
+    }
   };
 
   const shouldIgnoreKeyEvent = (event) => {
@@ -65,12 +103,14 @@
     }
   };
 
-  setActive(selectedIndex);
+  if (!restoreSelection()) {
+    setActive(selectedIndex);
+  }
   updateCount();
   statusText.textContent = "Browsing posts. Use Up / Down to move, Right to open.";
   document.addEventListener("keydown", handleKey);
 
-  listView.addEventListener("mousemove", (event) => {
+  listView.addEventListener("click", (event) => {
     const row = event.target.closest(".row");
     if (!row) return;
     const rows = getRows();
@@ -79,6 +119,7 @@
       selectedIndex = index;
       setActive(selectedIndex);
     }
+    saveSelection(row);
   });
 
   const batchSize = () => {
