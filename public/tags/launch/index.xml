@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Launch on Newsboat Blog</title>
-    <link>http://localhost:1313/newsboat-blog/tags/launch/</link>
+    <link>https://patrickjohnson3.github.io/newsboat-blog/tags/launch/</link>
     <description>Recent content in Launch on Newsboat Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/newsboat-blog/tags/launch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://patrickjohnson3.github.io/newsboat-blog/tags/launch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Quiet Launch Checklist</title>
-      <link>http://localhost:1313/newsboat-blog/posts/the-quiet-launch-checklist/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/the-quiet-launch-checklist/</link>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/the-quiet-launch-checklist/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/the-quiet-launch-checklist/</guid>
       <description>&lt;p&gt;A quiet launch is still a launch. It just favors stability over spectacle.&lt;/p&gt;&#xA;&lt;p&gt;Checklist: docs, error paths, logs, backups, and one real user you trust.&lt;/p&gt;&#xA;&lt;p&gt;Then ship and listen.&lt;/p&gt;</description>
     </item>
   </channel>

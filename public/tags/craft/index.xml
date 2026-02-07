@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Craft on Newsboat Blog</title>
-    <link>http://localhost:1313/newsboat-blog/tags/craft/</link>
+    <link>https://patrickjohnson3.github.io/newsboat-blog/tags/craft/</link>
     <description>Recent content in Craft on Newsboat Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/newsboat-blog/tags/craft/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://patrickjohnson3.github.io/newsboat-blog/tags/craft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Long View on Craft</title>
-      <link>http://localhost:1313/newsboat-blog/posts/the-long-view-on-craft/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/the-long-view-on-craft/</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/the-long-view-on-craft/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/the-long-view-on-craft/</guid>
       <description>&lt;p&gt;Craft is measured in decades, not quarters. It is the accumulation of careful choices, of instincts sharpened by repetition.&lt;/p&gt;&#xA;&lt;p&gt;The craftsperson chooses the boring solutions: the ones that survive refactors, carry a team, and leave room for the next idea.&lt;/p&gt;&#xA;&lt;p&gt;The long view is generous. It lets you change your mind, simplify the system, and still be proud of the work.&lt;/p&gt;&#xA;&lt;p&gt;If you want to invest in craft, invest in feedback loops. The loop is where the learning happens.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tools That Disappear</title>
-      <link>http://localhost:1313/newsboat-blog/posts/tools-that-disappear-2026-04-28/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/tools-that-disappear-2026-04-28/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/tools-that-disappear-2026-04-28/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/tools-that-disappear-2026-04-28/</guid>
       <description>&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Quiet Metric</title>
-      <link>http://localhost:1313/newsboat-blog/posts/the-quiet-metric-2026-04-08/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/the-quiet-metric-2026-04-08/</link>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/the-quiet-metric-2026-04-08/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/the-quiet-metric-2026-04-08/</guid>
       <description>&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Next Small Thing</title>
-      <link>http://localhost:1313/newsboat-blog/posts/the-next-small-thing-2026-04-18/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/the-next-small-thing-2026-04-18/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/the-next-small-thing-2026-04-18/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/the-next-small-thing-2026-04-18/</guid>
       <description>&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The 90 Second Reset</title>
-      <link>http://localhost:1313/newsboat-blog/posts/the-90-second-reset-2026-03-19/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/the-90-second-reset-2026-03-19/</link>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/the-90-second-reset-2026-03-19/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/the-90-second-reset-2026-03-19/</guid>
       <description>&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Week in Plain Text</title>
-      <link>http://localhost:1313/newsboat-blog/posts/a-week-in-plain-text-2026-03-29/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/a-week-in-plain-text-2026-03-29/</link>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/a-week-in-plain-text-2026-03-29/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/a-week-in-plain-text-2026-03-29/</guid>
       <description>&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Email on Newsboat Blog</title>
-    <link>http://localhost:1313/newsboat-blog/tags/email/</link>
+    <link>https://patrickjohnson3.github.io/newsboat-blog/tags/email/</link>
     <description>Recent content in Email on Newsboat Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/newsboat-blog/tags/email/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://patrickjohnson3.github.io/newsboat-blog/tags/email/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inbox Zero Is a Shape, Not a Goal</title>
-      <link>http://localhost:1313/newsboat-blog/posts/inbox-zero-is-a-shape-not-a-goal/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/inbox-zero-is-a-shape-not-a-goal/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/inbox-zero-is-a-shape-not-a-goal/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/inbox-zero-is-a-shape-not-a-goal/</guid>
       <description>&lt;p&gt;Inbox zero is the space to think, not the trophy. The point is to keep the lane clear, not to collect cleared lanes.&lt;/p&gt;&#xA;&lt;p&gt;Sort by intent: delete, delegate, defer, or do. Your future self is a teammate. Leave them an easy handoff.&lt;/p&gt;&#xA;&lt;p&gt;If you only do one thing today, trim the list so tomorrow feels possible.&lt;/p&gt;</description>
     </item>
   </channel>

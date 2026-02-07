@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Release on Newsboat Blog</title>
-    <link>http://localhost:1313/newsboat-blog/tags/release/</link>
+    <link>https://patrickjohnson3.github.io/newsboat-blog/tags/release/</link>
     <description>Recent content in Release on Newsboat Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/newsboat-blog/tags/release/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://patrickjohnson3.github.io/newsboat-blog/tags/release/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Single Source</title>
-      <link>http://localhost:1313/newsboat-blog/posts/the-single-source-2026-04-23/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/the-single-source-2026-04-23/</link>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/the-single-source-2026-04-23/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/the-single-source-2026-04-23/</guid>
       <description>&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;&#xA;&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The One Screen Demo</title>
-      <link>http://localhost:1313/newsboat-blog/posts/the-one-screen-demo-2026-03-24/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/the-one-screen-demo-2026-03-24/</link>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/the-one-screen-demo-2026-03-24/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/the-one-screen-demo-2026-03-24/</guid>
       <description>&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;&#xA;&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Clean Path</title>
-      <link>http://localhost:1313/newsboat-blog/posts/the-clean-path-2026-05-03/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/the-clean-path-2026-05-03/</link>
       <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/the-clean-path-2026-05-03/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/the-clean-path-2026-05-03/</guid>
       <description>&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;&#xA;&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Latency Budgets</title>
-      <link>http://localhost:1313/newsboat-blog/posts/latency-budgets-2026-04-03/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/latency-budgets-2026-04-03/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/latency-budgets-2026-04-03/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/latency-budgets-2026-04-03/</guid>
       <description>&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;&#xA;&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Keep the Center</title>
-      <link>http://localhost:1313/newsboat-blog/posts/keep-the-center-2026-04-13/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/keep-the-center-2026-04-13/</link>
       <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/keep-the-center-2026-04-13/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/keep-the-center-2026-04-13/</guid>
       <description>&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;&#xA;&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;</description>
     </item>
   </channel>

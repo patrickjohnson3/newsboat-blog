@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Engineering on Newsboat Blog</title>
-    <link>http://localhost:1313/newsboat-blog/tags/engineering/</link>
+    <link>https://patrickjohnson3.github.io/newsboat-blog/tags/engineering/</link>
     <description>Recent content in Engineering on Newsboat Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/newsboat-blog/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://patrickjohnson3.github.io/newsboat-blog/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tools That Disappear</title>
-      <link>http://localhost:1313/newsboat-blog/posts/tools-that-disappear-2026-04-28/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/tools-that-disappear-2026-04-28/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/tools-that-disappear-2026-04-28/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/tools-that-disappear-2026-04-28/</guid>
       <description>&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Quiet Metric</title>
-      <link>http://localhost:1313/newsboat-blog/posts/the-quiet-metric-2026-04-08/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/the-quiet-metric-2026-04-08/</link>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/the-quiet-metric-2026-04-08/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/the-quiet-metric-2026-04-08/</guid>
       <description>&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The One Tab Day</title>
-      <link>http://localhost:1313/newsboat-blog/posts/the-one-tab-day-2026-04-12/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/the-one-tab-day-2026-04-12/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/the-one-tab-day-2026-04-12/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/the-one-tab-day-2026-04-12/</guid>
       <description>&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;&#xA;&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Next Small Thing</title>
-      <link>http://localhost:1313/newsboat-blog/posts/the-next-small-thing-2026-04-18/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/the-next-small-thing-2026-04-18/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/the-next-small-thing-2026-04-18/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/the-next-small-thing-2026-04-18/</guid>
       <description>&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The First Line Test</title>
-      <link>http://localhost:1313/newsboat-blog/posts/the-first-line-test-2026-03-23/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/the-first-line-test-2026-03-23/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/the-first-line-test-2026-03-23/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/the-first-line-test-2026-03-23/</guid>
       <description>&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;&#xA;&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Decision Log</title>
-      <link>http://localhost:1313/newsboat-blog/posts/the-decision-log-2026-04-22/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/the-decision-log-2026-04-22/</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/the-decision-log-2026-04-22/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/the-decision-log-2026-04-22/</guid>
       <description>&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;&#xA;&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Calm Handoff</title>
-      <link>http://localhost:1313/newsboat-blog/posts/the-calm-handoff-2026-04-02/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/the-calm-handoff-2026-04-02/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/the-calm-handoff-2026-04-02/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/the-calm-handoff-2026-04-02/</guid>
       <description>&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;&#xA;&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The 90 Second Reset</title>
-      <link>http://localhost:1313/newsboat-blog/posts/the-90-second-reset-2026-03-19/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/the-90-second-reset-2026-03-19/</link>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/the-90-second-reset-2026-03-19/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/the-90-second-reset-2026-03-19/</guid>
       <description>&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Week in Plain Text</title>
-      <link>http://localhost:1313/newsboat-blog/posts/a-week-in-plain-text-2026-03-29/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/a-week-in-plain-text-2026-03-29/</link>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/a-week-in-plain-text-2026-03-29/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/a-week-in-plain-text-2026-03-29/</guid>
       <description>&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Practical Default</title>
-      <link>http://localhost:1313/newsboat-blog/posts/a-practical-default-2026-05-02/</link>
+      <link>https://patrickjohnson3.github.io/newsboat-blog/posts/a-practical-default-2026-05-02/</link>
       <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newsboat-blog/posts/a-practical-default-2026-05-02/</guid>
+      <guid>https://patrickjohnson3.github.io/newsboat-blog/posts/a-practical-default-2026-05-02/</guid>
       <description>&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;&#xA;&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;</description>
     </item>
   </channel>
