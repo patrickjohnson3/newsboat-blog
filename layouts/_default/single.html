@@ -3,10 +3,10 @@
   <head>
     {{ partial "head.html" . }}
   </head>
-  <body data-list-url="{{ "/" | relURL }}">
+  <body data-list-url="{{ .Site.Home.RelPermalink }}">
     <div class="app" id="app">
       <header>
-        <div class="brand"><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></div>
+        <div class="brand"><a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a></div>
         <div class="hint">Use Up / Down / Left</div>
       </header>
 
