@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Habits on Newsboat Blog</title>
-    <link>http://example.org/tags/habits/</link>
+    <link>http://localhost:1313/newsboat-blog/tags/habits/</link>
     <description>Recent content in Habits on Newsboat Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/tags/habits/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/newsboat-blog/tags/habits/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Attention Budgets</title>
-      <link>http://example.org/posts/attention-budgets/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/attention-budgets/</link>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/attention-budgets/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/attention-budgets/</guid>
       <description>&lt;p&gt;Treat attention like cash. Spend it once, spend it well.&lt;/p&gt;&#xA;&lt;p&gt;If a task costs more attention than it returns, cut it or simplify it.&lt;/p&gt;&#xA;&lt;p&gt;Small boundaries beat grand plans.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Daily Notes: A Minimal Ritual</title>
-      <link>http://example.org/posts/daily-notes-a-minimal-ritual/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/daily-notes-a-minimal-ritual/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/daily-notes-a-minimal-ritual/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/daily-notes-a-minimal-ritual/</guid>
       <description>&lt;p&gt;I keep a daily note. It starts as a timestamp and a blank line. The ritual is simple: capture what happened, what matters, what to carry forward.&lt;/p&gt;&#xA;&lt;p&gt;Most days it&amp;rsquo;s small: a meeting outcome, a line of code, a phrase that sparks something.&lt;/p&gt;&#xA;&lt;p&gt;The note isn&amp;rsquo;t for productivity. It&amp;rsquo;s a tiny archive of attention. And attention is the one resource that cannot be reclaimed.&lt;/p&gt;&#xA;&lt;p&gt;Try it for a week. You might be surprised by what you remember.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Handoff Checklist</title>
-      <link>http://example.org/posts/the-handoff-checklist-2026-04-17/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-handoff-checklist-2026-04-17/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-handoff-checklist-2026-04-17/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-handoff-checklist-2026-04-17/</guid>
       <description>&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;&#xA;&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;&#xA;&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The First 10 Minutes</title>
-      <link>http://example.org/posts/the-first-10-minutes-2026-04-27/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-first-10-minutes-2026-04-27/</link>
       <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-first-10-minutes-2026-04-27/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-first-10-minutes-2026-04-27/</guid>
       <description>&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;&#xA;&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;&#xA;&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Signals Over Noise</title>
-      <link>http://example.org/posts/signals-over-noise-2026-03-28/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/signals-over-noise-2026-03-28/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/signals-over-noise-2026-03-28/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/signals-over-noise-2026-03-28/</guid>
       <description>&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;&#xA;&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;&#xA;&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Design for the Second Read</title>
-      <link>http://example.org/posts/design-for-the-second-read-2026-03-18/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/design-for-the-second-read-2026-03-18/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/design-for-the-second-read-2026-03-18/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/design-for-the-second-read-2026-03-18/</guid>
       <description>&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;&#xA;&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;&#xA;&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Daily Diff, Weekly Summary</title>
-      <link>http://example.org/posts/daily-diff-weekly-summary-2026-04-07/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/daily-diff-weekly-summary-2026-04-07/</link>
       <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/daily-diff-weekly-summary-2026-04-07/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/daily-diff-weekly-summary-2026-04-07/</guid>
       <description>&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;&#xA;&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;&#xA;&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;</description>
     </item>
   </channel>

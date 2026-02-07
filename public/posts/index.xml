@@ -2,437 +2,437 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Newsboat Blog</title>
-    <link>http://example.org/posts/</link>
+    <link>http://localhost:1313/newsboat-blog/posts/</link>
     <description>Recent content in Posts on Newsboat Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/newsboat-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Quiet Launch Checklist</title>
-      <link>http://example.org/posts/the-quiet-launch-checklist/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-quiet-launch-checklist/</link>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-quiet-launch-checklist/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-quiet-launch-checklist/</guid>
       <description>&lt;p&gt;A quiet launch is still a launch. It just favors stability over spectacle.&lt;/p&gt;&#xA;&lt;p&gt;Checklist: docs, error paths, logs, backups, and one real user you trust.&lt;/p&gt;&#xA;&lt;p&gt;Then ship and listen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Attention Budgets</title>
-      <link>http://example.org/posts/attention-budgets/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/attention-budgets/</link>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/attention-budgets/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/attention-budgets/</guid>
       <description>&lt;p&gt;Treat attention like cash. Spend it once, spend it well.&lt;/p&gt;&#xA;&lt;p&gt;If a task costs more attention than it returns, cut it or simplify it.&lt;/p&gt;&#xA;&lt;p&gt;Small boundaries beat grand plans.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reading Logs as Compasses</title>
-      <link>http://example.org/posts/reading-logs-as-compasses/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/reading-logs-as-compasses/</link>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/reading-logs-as-compasses/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/reading-logs-as-compasses/</guid>
       <description>&lt;p&gt;A reading log is not a list, it is a map of where your attention goes.&lt;/p&gt;&#xA;&lt;p&gt;Write the single line you would want to remember. That line is the compass point.&lt;/p&gt;&#xA;&lt;p&gt;After a month, patterns appear. Follow the pattern.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Two Column Thinking</title>
-      <link>http://example.org/posts/two-column-thinking/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/two-column-thinking/</link>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/two-column-thinking/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/two-column-thinking/</guid>
       <description>&lt;p&gt;I keep a scratch column and a finished column. The left is messy, the right is careful.&lt;/p&gt;&#xA;&lt;p&gt;Moving a line to the right is a small ceremony. It makes the idea real.&lt;/p&gt;&#xA;&lt;p&gt;This tiny ritual keeps me honest about what I actually believe.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Case for Boring Defaults</title>
-      <link>http://example.org/posts/the-case-for-boring-defaults/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-case-for-boring-defaults/</link>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-case-for-boring-defaults/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-case-for-boring-defaults/</guid>
       <description>&lt;p&gt;Defaults are where products go to be judged. Loud defaults feel like arrogance.&lt;/p&gt;&#xA;&lt;p&gt;A boring default gives users confidence. It is the quiet handshake that says: you are safe here.&lt;/p&gt;&#xA;&lt;p&gt;When in doubt, choose the setting that keeps data, reduces noise, and lowers surprise.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Designing for the First 5 Seconds</title>
-      <link>http://example.org/posts/designing-for-the-first-5-seconds/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/designing-for-the-first-5-seconds/</link>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/designing-for-the-first-5-seconds/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/designing-for-the-first-5-seconds/</guid>
       <description>&lt;p&gt;People decide to stay in the first five seconds. Clarity beats cleverness in that window.&lt;/p&gt;&#xA;&lt;p&gt;One headline, one action, one promise. Then deliver on it without interruption.&lt;/p&gt;&#xA;&lt;p&gt;Earn the second five seconds, and the rest gets easy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Inbox Zero Is a Shape, Not a Goal</title>
-      <link>http://example.org/posts/inbox-zero-is-a-shape-not-a-goal/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/inbox-zero-is-a-shape-not-a-goal/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/inbox-zero-is-a-shape-not-a-goal/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/inbox-zero-is-a-shape-not-a-goal/</guid>
       <description>&lt;p&gt;Inbox zero is the space to think, not the trophy. The point is to keep the lane clear, not to collect cleared lanes.&lt;/p&gt;&#xA;&lt;p&gt;Sort by intent: delete, delegate, defer, or do. Your future self is a teammate. Leave them an easy handoff.&lt;/p&gt;&#xA;&lt;p&gt;If you only do one thing today, trim the list so tomorrow feels possible.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Long View on Craft</title>
-      <link>http://example.org/posts/the-long-view-on-craft/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-long-view-on-craft/</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-long-view-on-craft/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-long-view-on-craft/</guid>
       <description>&lt;p&gt;Craft is measured in decades, not quarters. It is the accumulation of careful choices, of instincts sharpened by repetition.&lt;/p&gt;&#xA;&lt;p&gt;The craftsperson chooses the boring solutions: the ones that survive refactors, carry a team, and leave room for the next idea.&lt;/p&gt;&#xA;&lt;p&gt;The long view is generous. It lets you change your mind, simplify the system, and still be proud of the work.&lt;/p&gt;&#xA;&lt;p&gt;If you want to invest in craft, invest in feedback loops. The loop is where the learning happens.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Daily Notes: A Minimal Ritual</title>
-      <link>http://example.org/posts/daily-notes-a-minimal-ritual/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/daily-notes-a-minimal-ritual/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/daily-notes-a-minimal-ritual/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/daily-notes-a-minimal-ritual/</guid>
       <description>&lt;p&gt;I keep a daily note. It starts as a timestamp and a blank line. The ritual is simple: capture what happened, what matters, what to carry forward.&lt;/p&gt;&#xA;&lt;p&gt;Most days it&amp;rsquo;s small: a meeting outcome, a line of code, a phrase that sparks something.&lt;/p&gt;&#xA;&lt;p&gt;The note isn&amp;rsquo;t for productivity. It&amp;rsquo;s a tiny archive of attention. And attention is the one resource that cannot be reclaimed.&lt;/p&gt;&#xA;&lt;p&gt;Try it for a week. You might be surprised by what you remember.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tools That Disappear</title>
-      <link>http://example.org/posts/tools-that-disappear-2026-04-28/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/tools-that-disappear-2026-04-28/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/tools-that-disappear-2026-04-28/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/tools-that-disappear-2026-04-28/</guid>
       <description>&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>On Shipping Tiny Tools</title>
-      <link>http://example.org/posts/on-shipping-tiny-tools/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/on-shipping-tiny-tools/</link>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/on-shipping-tiny-tools/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/on-shipping-tiny-tools/</guid>
       <description>&lt;p&gt;Tiny tools are the quiet workhorses of creative systems. They don&amp;rsquo;t need a brand campaign; they need trust.&lt;/p&gt;&#xA;&lt;p&gt;The shortcut that saves 3 seconds a day compounds. A clean parser, a readable log, a resilient script&amp;ndash;small things that keep teams moving.&lt;/p&gt;&#xA;&lt;p&gt;If you can describe the tool in one line and show its output in one screen, you&amp;rsquo;re on the right track.&lt;/p&gt;&#xA;&lt;p&gt;The secret is finishing: polish the edges, write the help text, make the default path delightful.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Two Pass Review</title>
-      <link>http://example.org/posts/the-two-pass-review-2026-03-17/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-two-pass-review-2026-03-17/</link>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-two-pass-review-2026-03-17/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-two-pass-review-2026-03-17/</guid>
       <description>&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;&#xA;&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Two Click Rule</title>
-      <link>http://example.org/posts/the-two-click-rule-2026-04-24/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-two-click-rule-2026-04-24/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-two-click-rule-2026-04-24/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-two-click-rule-2026-04-24/</guid>
       <description>&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;&#xA;&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;&#xA;&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Trust Ledger</title>
-      <link>http://example.org/posts/the-trust-ledger-2026-04-05/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-trust-ledger-2026-04-05/</link>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-trust-ledger-2026-04-05/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-trust-ledger-2026-04-05/</guid>
       <description>&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Small Release</title>
-      <link>http://example.org/posts/the-small-release-2026-05-04/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-small-release-2026-05-04/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-small-release-2026-05-04/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-small-release-2026-05-04/</guid>
       <description>&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;&#xA;&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;&#xA;&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Small Loop</title>
-      <link>http://example.org/posts/the-small-loop-2026-03-21/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-small-loop-2026-03-21/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-small-loop-2026-03-21/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-small-loop-2026-03-21/</guid>
       <description>&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;&#xA;&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;&#xA;&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Single Source</title>
-      <link>http://example.org/posts/the-single-source-2026-04-23/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-single-source-2026-04-23/</link>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-single-source-2026-04-23/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-single-source-2026-04-23/</guid>
       <description>&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;&#xA;&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Small Manifesto for Quiet Interfaces</title>
-      <link>http://example.org/posts/a-small-manifesto-for-quiet-interfaces/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-small-manifesto-for-quiet-interfaces/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-small-manifesto-for-quiet-interfaces/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-small-manifesto-for-quiet-interfaces/</guid>
       <description>&lt;p&gt;News readers are built for flow: scan, select, dive, return. In a world of infinite scrolling and decorative chrome, the calm interface is a radical choice.&lt;/p&gt;&#xA;&lt;p&gt;This blog is an experiment in restraint: no popups, no attention traps, just clean type and a fast way in and out.&lt;/p&gt;&#xA;&lt;p&gt;When interfaces are quiet, content feels louder. It lets your thoughts meet the text without fighting the UI.&lt;/p&gt;&#xA;&lt;p&gt;So today, here&amp;rsquo;s the manifesto: give the reader a path. Make the path reliable. Let the words do the work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Short Feedback Loop</title>
-      <link>http://example.org/posts/the-short-feedback-loop-2026-04-10/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-short-feedback-loop-2026-04-10/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-short-feedback-loop-2026-04-10/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-short-feedback-loop-2026-04-10/</guid>
       <description>&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;&#xA;&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;&#xA;&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Reset Button</title>
-      <link>http://example.org/posts/the-reset-button-2026-04-14/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-reset-button-2026-04-14/</link>
       <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-reset-button-2026-04-14/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-reset-button-2026-04-14/</guid>
       <description>&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;&#xA;&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;&#xA;&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Reading Queue</title>
-      <link>http://example.org/posts/the-reading-queue-2026-03-31/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-reading-queue-2026-03-31/</link>
       <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-reading-queue-2026-03-31/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-reading-queue-2026-03-31/</guid>
       <description>&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;&#xA;&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;&#xA;&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Quiet Shortcut</title>
-      <link>http://example.org/posts/the-quiet-shortcut-2026-04-25/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-quiet-shortcut-2026-04-25/</link>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-quiet-shortcut-2026-04-25/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-quiet-shortcut-2026-04-25/</guid>
       <description>&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Quiet Metric</title>
-      <link>http://example.org/posts/the-quiet-metric-2026-04-08/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-quiet-metric-2026-04-08/</link>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-quiet-metric-2026-04-08/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-quiet-metric-2026-04-08/</guid>
       <description>&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Open Loop List</title>
-      <link>http://example.org/posts/the-open-loop-list-2026-04-30/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-open-loop-list-2026-04-30/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-open-loop-list-2026-04-30/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-open-loop-list-2026-04-30/</guid>
       <description>&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;&#xA;&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;&#xA;&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The One Tab Day</title>
-      <link>http://example.org/posts/the-one-tab-day-2026-04-12/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-one-tab-day-2026-04-12/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-one-tab-day-2026-04-12/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-one-tab-day-2026-04-12/</guid>
       <description>&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;&#xA;&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The One Screen Demo</title>
-      <link>http://example.org/posts/the-one-screen-demo-2026-03-24/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-one-screen-demo-2026-03-24/</link>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-one-screen-demo-2026-03-24/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-one-screen-demo-2026-03-24/</guid>
       <description>&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;&#xA;&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Next Small Thing</title>
-      <link>http://example.org/posts/the-next-small-thing-2026-04-18/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-next-small-thing-2026-04-18/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-next-small-thing-2026-04-18/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-next-small-thing-2026-04-18/</guid>
       <description>&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Keep List</title>
-      <link>http://example.org/posts/the-keep-list-2026-03-25/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-keep-list-2026-03-25/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-keep-list-2026-03-25/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-keep-list-2026-03-25/</guid>
       <description>&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;&#xA;&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;&#xA;&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Handoff Checklist</title>
-      <link>http://example.org/posts/the-handoff-checklist-2026-04-17/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-handoff-checklist-2026-04-17/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-handoff-checklist-2026-04-17/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-handoff-checklist-2026-04-17/</guid>
       <description>&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;&#xA;&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;&#xA;&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Five Minute Audit</title>
-      <link>http://example.org/posts/the-five-minute-audit-2026-04-06/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-five-minute-audit-2026-04-06/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-five-minute-audit-2026-04-06/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-five-minute-audit-2026-04-06/</guid>
       <description>&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;&#xA;&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The First Line Test</title>
-      <link>http://example.org/posts/the-first-line-test-2026-03-23/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-first-line-test-2026-03-23/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-first-line-test-2026-03-23/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-first-line-test-2026-03-23/</guid>
       <description>&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;&#xA;&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The First 10 Minutes</title>
-      <link>http://example.org/posts/the-first-10-minutes-2026-04-27/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-first-10-minutes-2026-04-27/</link>
       <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-first-10-minutes-2026-04-27/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-first-10-minutes-2026-04-27/</guid>
       <description>&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;&#xA;&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;&#xA;&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Decision Log</title>
-      <link>http://example.org/posts/the-decision-log-2026-04-22/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-decision-log-2026-04-22/</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-decision-log-2026-04-22/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-decision-log-2026-04-22/</guid>
       <description>&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;&#xA;&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Daily Compass</title>
-      <link>http://example.org/posts/the-daily-compass-2026-05-01/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-daily-compass-2026-05-01/</link>
       <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-daily-compass-2026-05-01/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-daily-compass-2026-05-01/</guid>
       <description>&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;&#xA;&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Clean Path</title>
-      <link>http://example.org/posts/the-clean-path-2026-05-03/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-clean-path-2026-05-03/</link>
       <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-clean-path-2026-05-03/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-clean-path-2026-05-03/</guid>
       <description>&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;&#xA;&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Calm Review</title>
-      <link>http://example.org/posts/the-calm-review-2026-04-20/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-calm-review-2026-04-20/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-calm-review-2026-04-20/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-calm-review-2026-04-20/</guid>
       <description>&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;&#xA;&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;&#xA;&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Calm Handoff</title>
-      <link>http://example.org/posts/the-calm-handoff-2026-04-02/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-calm-handoff-2026-04-02/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-calm-handoff-2026-04-02/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-calm-handoff-2026-04-02/</guid>
       <description>&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;&#xA;&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The 90 Second Reset</title>
-      <link>http://example.org/posts/the-90-second-reset-2026-03-19/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-90-second-reset-2026-03-19/</link>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-90-second-reset-2026-03-19/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-90-second-reset-2026-03-19/</guid>
       <description>&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Signals Over Noise</title>
-      <link>http://example.org/posts/signals-over-noise-2026-03-28/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/signals-over-noise-2026-03-28/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/signals-over-noise-2026-03-28/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/signals-over-noise-2026-03-28/</guid>
       <description>&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;&#xA;&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;&#xA;&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shipping the Small Cut</title>
-      <link>http://example.org/posts/shipping-the-small-cut-2026-03-30/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/shipping-the-small-cut-2026-03-30/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/shipping-the-small-cut-2026-03-30/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/shipping-the-small-cut-2026-03-30/</guid>
       <description>&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;&#xA;&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;&#xA;&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quiet Systems in Motion</title>
-      <link>http://example.org/posts/quiet-systems-in-motion-2026-03-16/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/quiet-systems-in-motion-2026-03-16/</link>
       <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/quiet-systems-in-motion-2026-03-16/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/quiet-systems-in-motion-2026-03-16/</guid>
       <description>&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Notes From the Edge</title>
-      <link>http://example.org/posts/notes-from-the-edge-2026-03-20/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/notes-from-the-edge-2026-03-20/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/notes-from-the-edge-2026-03-20/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/notes-from-the-edge-2026-03-20/</guid>
       <description>&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;&#xA;&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;&#xA;&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meetings as Interfaces</title>
-      <link>http://example.org/posts/meetings-as-interfaces-2026-03-27/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/meetings-as-interfaces-2026-03-27/</link>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/meetings-as-interfaces-2026-03-27/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/meetings-as-interfaces-2026-03-27/</guid>
       <description>&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;&#xA;&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Latency Budgets</title>
-      <link>http://example.org/posts/latency-budgets-2026-04-03/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/latency-budgets-2026-04-03/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/latency-budgets-2026-04-03/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/latency-budgets-2026-04-03/</guid>
       <description>&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;&#xA;&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Keep the Center</title>
-      <link>http://example.org/posts/keep-the-center-2026-04-13/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/keep-the-center-2026-04-13/</link>
       <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/keep-the-center-2026-04-13/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/keep-the-center-2026-04-13/</guid>
       <description>&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;&#xA;&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fewer Alerts, Better Work</title>
-      <link>http://example.org/posts/fewer-alerts-better-work-2026-03-26/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/fewer-alerts-better-work-2026-03-26/</link>
       <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/fewer-alerts-better-work-2026-03-26/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/fewer-alerts-better-work-2026-03-26/</guid>
       <description>&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Design for the Second Read</title>
-      <link>http://example.org/posts/design-for-the-second-read-2026-03-18/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/design-for-the-second-read-2026-03-18/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/design-for-the-second-read-2026-03-18/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/design-for-the-second-read-2026-03-18/</guid>
       <description>&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;&#xA;&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;&#xA;&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Daily Diff, Weekly Summary</title>
-      <link>http://example.org/posts/daily-diff-weekly-summary-2026-04-07/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/daily-diff-weekly-summary-2026-04-07/</link>
       <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/daily-diff-weekly-summary-2026-04-07/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/daily-diff-weekly-summary-2026-04-07/</guid>
       <description>&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;&#xA;&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;&#xA;&lt;p&gt;Logs are for the future you. Tell the story so you can fix it fast.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Clarity Over Clever</title>
-      <link>http://example.org/posts/clarity-over-clever-2026-04-15/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/clarity-over-clever-2026-04-15/</link>
       <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/clarity-over-clever-2026-04-15/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/clarity-over-clever-2026-04-15/</guid>
       <description>&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Week in Plain Text</title>
-      <link>http://example.org/posts/a-week-in-plain-text-2026-03-29/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-week-in-plain-text-2026-03-29/</link>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-week-in-plain-text-2026-03-29/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-week-in-plain-text-2026-03-29/</guid>
       <description>&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Spare UI</title>
-      <link>http://example.org/posts/a-spare-ui-2026-04-19/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-spare-ui-2026-04-19/</link>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-spare-ui-2026-04-19/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-spare-ui-2026-04-19/</guid>
       <description>&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;&#xA;&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;&#xA;&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Simple Reading Plan</title>
-      <link>http://example.org/posts/a-simple-reading-plan-2026-04-26/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-simple-reading-plan-2026-04-26/</link>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-simple-reading-plan-2026-04-26/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-simple-reading-plan-2026-04-26/</guid>
       <description>&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;&#xA;&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Practical Exit</title>
-      <link>http://example.org/posts/a-practical-exit-2026-04-04/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-practical-exit-2026-04-04/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-practical-exit-2026-04-04/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-practical-exit-2026-04-04/</guid>
       <description>&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;&#xA;&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;&#xA;&lt;p&gt;Ship the smallest useful cut. Let real use decide what grows next.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Practical Default</title>
-      <link>http://example.org/posts/a-practical-default-2026-05-02/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-practical-default-2026-05-02/</link>
       <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-practical-default-2026-05-02/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-practical-default-2026-05-02/</guid>
       <description>&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;&#xA;&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Note on Defaults</title>
-      <link>http://example.org/posts/a-note-on-defaults-2026-04-09/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-note-on-defaults-2026-04-09/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-note-on-defaults-2026-04-09/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-note-on-defaults-2026-04-09/</guid>
       <description>&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;&#xA;&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;&#xA;&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Minimal Change Log</title>
-      <link>http://example.org/posts/a-minimal-change-log-2026-04-16/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-minimal-change-log-2026-04-16/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-minimal-change-log-2026-04-16/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-minimal-change-log-2026-04-16/</guid>
       <description>&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;&#xA;&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Map of Friction</title>
-      <link>http://example.org/posts/a-map-of-friction-2026-04-01/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-map-of-friction-2026-04-01/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-map-of-friction-2026-04-01/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-map-of-friction-2026-04-01/</guid>
       <description>&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;&#xA;&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Gentle Rollback</title>
-      <link>http://example.org/posts/a-gentle-rollback-2026-04-21/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-gentle-rollback-2026-04-21/</link>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-gentle-rollback-2026-04-21/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-gentle-rollback-2026-04-21/</guid>
       <description>&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;&#xA;&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Friendly Default</title>
-      <link>http://example.org/posts/a-friendly-default-2026-03-22/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-friendly-default-2026-03-22/</link>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-friendly-default-2026-03-22/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-friendly-default-2026-03-22/</guid>
       <description>&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;&#xA;&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Durable Format</title>
-      <link>http://example.org/posts/a-durable-format-2026-04-29/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-durable-format-2026-04-29/</link>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-durable-format-2026-04-29/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-durable-format-2026-04-29/</guid>
       <description>&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;&#xA;&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;&#xA;&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Clearer Error</title>
-      <link>http://example.org/posts/a-clearer-error-2026-04-11/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-clearer-error-2026-04-11/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-clearer-error-2026-04-11/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-clearer-error-2026-04-11/</guid>
       <description>&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;&#xA;&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;</description>
     </item>
   </channel>

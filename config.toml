@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://patrickjohnson3.github.io/newsboat-blog/"
 languageCode = "en-us"
 title = "Newsboat Blog"
 #[pagination]

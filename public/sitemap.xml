@@ -2,273 +2,273 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/tags/checklist/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/checklist/</loc>
     <lastmod>2026-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/launch/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/launch/</loc>
     <lastmod>2026-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://localhost:1313/newsboat-blog/</loc>
     <lastmod>2026-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/</loc>
     <lastmod>2026-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/</loc>
     <lastmod>2026-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-quiet-launch-checklist/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-quiet-launch-checklist/</loc>
     <lastmod>2026-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/attention-budgets/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/attention-budgets/</loc>
     <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/focus/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/focus/</loc>
     <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/habits/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/habits/</loc>
     <lastmod>2026-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/notes/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/notes/</loc>
     <lastmod>2026-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/reading/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/reading/</loc>
     <lastmod>2026-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/reading-logs-as-compasses/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/reading-logs-as-compasses/</loc>
     <lastmod>2026-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/systems/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/systems/</loc>
     <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/two-column-thinking/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/two-column-thinking/</loc>
     <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/writing/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/writing/</loc>
     <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/defaults/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/defaults/</loc>
     <lastmod>2026-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/product/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/product/</loc>
     <lastmod>2026-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-case-for-boring-defaults/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-case-for-boring-defaults/</loc>
     <lastmod>2026-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/design/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/design/</loc>
     <lastmod>2026-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/designing-for-the-first-5-seconds/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/designing-for-the-first-5-seconds/</loc>
     <lastmod>2026-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/ux/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/ux/</loc>
     <lastmod>2026-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/email/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/email/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/inbox-zero-is-a-shape-not-a-goal/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/inbox-zero-is-a-shape-not-a-goal/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/workflow/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/workflow/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/career/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/career/</loc>
     <lastmod>2026-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/craft/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/craft/</loc>
     <lastmod>2026-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-long-view-on-craft/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-long-view-on-craft/</loc>
     <lastmod>2026-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/daily-notes-a-minimal-ritual/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/daily-notes-a-minimal-ritual/</loc>
     <lastmod>2026-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/engineering/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/engineering/</loc>
     <lastmod>2026-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/tools-that-disappear-2026-04-28/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/tools-that-disappear-2026-04-28/</loc>
     <lastmod>2026-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/build/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/build/</loc>
     <lastmod>2026-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/on-shipping-tiny-tools/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/on-shipping-tiny-tools/</loc>
     <lastmod>2026-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-two-pass-review-2026-03-17/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-two-pass-review-2026-03-17/</loc>
     <lastmod>2026-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/tools/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/tools/</loc>
     <lastmod>2026-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/planning/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/planning/</loc>
     <lastmod>2026-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-two-click-rule-2026-04-24/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-two-click-rule-2026-04-24/</loc>
     <lastmod>2026-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-trust-ledger-2026-04-05/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-trust-ledger-2026-04-05/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-small-release-2026-05-04/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-small-release-2026-05-04/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-small-loop-2026-03-21/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-small-loop-2026-03-21/</loc>
     <lastmod>2026-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/process/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/process/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/release/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/release/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-single-source-2026-04-23/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-single-source-2026-04-23/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/a-small-manifesto-for-quiet-interfaces/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/a-small-manifesto-for-quiet-interfaces/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-short-feedback-loop-2026-04-10/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-short-feedback-loop-2026-04-10/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-reset-button-2026-04-14/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-reset-button-2026-04-14/</loc>
     <lastmod>2026-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-reading-queue-2026-03-31/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-reading-queue-2026-03-31/</loc>
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-quiet-shortcut-2026-04-25/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-quiet-shortcut-2026-04-25/</loc>
     <lastmod>2026-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-quiet-metric-2026-04-08/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-quiet-metric-2026-04-08/</loc>
     <lastmod>2026-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-open-loop-list-2026-04-30/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-open-loop-list-2026-04-30/</loc>
     <lastmod>2026-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/performance/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/performance/</loc>
     <lastmod>2026-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-one-tab-day-2026-04-12/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-one-tab-day-2026-04-12/</loc>
     <lastmod>2026-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-one-screen-demo-2026-03-24/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-one-screen-demo-2026-03-24/</loc>
     <lastmod>2026-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-next-small-thing-2026-04-18/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-next-small-thing-2026-04-18/</loc>
     <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-keep-list-2026-03-25/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-keep-list-2026-03-25/</loc>
     <lastmod>2026-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-handoff-checklist-2026-04-17/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-handoff-checklist-2026-04-17/</loc>
     <lastmod>2026-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-five-minute-audit-2026-04-06/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-five-minute-audit-2026-04-06/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-first-line-test-2026-03-23/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-first-line-test-2026-03-23/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-first-10-minutes-2026-04-27/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-first-10-minutes-2026-04-27/</loc>
     <lastmod>2025-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-decision-log-2026-04-22/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-decision-log-2026-04-22/</loc>
     <lastmod>2025-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/reflection/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/reflection/</loc>
     <lastmod>2025-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-daily-compass-2026-05-01/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-daily-compass-2026-05-01/</loc>
     <lastmod>2025-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-clean-path-2026-05-03/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-clean-path-2026-05-03/</loc>
     <lastmod>2025-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-calm-review-2026-04-20/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-calm-review-2026-04-20/</loc>
     <lastmod>2025-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-calm-handoff-2026-04-02/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-calm-handoff-2026-04-02/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-90-second-reset-2026-03-19/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/the-90-second-reset-2026-03-19/</loc>
     <lastmod>2025-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/signals-over-noise-2026-03-28/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/signals-over-noise-2026-03-28/</loc>
     <lastmod>2025-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/shipping-the-small-cut-2026-03-30/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/shipping-the-small-cut-2026-03-30/</loc>
     <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/teams/</loc>
+    <loc>http://localhost:1313/newsboat-blog/tags/teams/</loc>
     <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/quiet-systems-in-motion-2026-03-16/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/quiet-systems-in-motion-2026-03-16/</loc>
     <lastmod>2025-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/notes-from-the-edge-2026-03-20/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/notes-from-the-edge-2026-03-20/</loc>
     <lastmod>2025-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/meetings-as-interfaces-2026-03-27/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/meetings-as-interfaces-2026-03-27/</loc>
     <lastmod>2025-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/latency-budgets-2026-04-03/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/latency-budgets-2026-04-03/</loc>
     <lastmod>2025-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/keep-the-center-2026-04-13/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/keep-the-center-2026-04-13/</loc>
     <lastmod>2025-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/fewer-alerts-better-work-2026-03-26/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/fewer-alerts-better-work-2026-03-26/</loc>
     <lastmod>2025-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/design-for-the-second-read-2026-03-18/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/design-for-the-second-read-2026-03-18/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/daily-diff-weekly-summary-2026-04-07/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/daily-diff-weekly-summary-2026-04-07/</loc>
     <lastmod>2025-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/clarity-over-clever-2026-04-15/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/clarity-over-clever-2026-04-15/</loc>
     <lastmod>2025-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/a-week-in-plain-text-2026-03-29/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/a-week-in-plain-text-2026-03-29/</loc>
     <lastmod>2025-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/a-spare-ui-2026-04-19/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/a-spare-ui-2026-04-19/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/a-simple-reading-plan-2026-04-26/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/a-simple-reading-plan-2026-04-26/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/a-practical-exit-2026-04-04/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/a-practical-exit-2026-04-04/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/a-practical-default-2026-05-02/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/a-practical-default-2026-05-02/</loc>
     <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/a-note-on-defaults-2026-04-09/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/a-note-on-defaults-2026-04-09/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/a-minimal-change-log-2026-04-16/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/a-minimal-change-log-2026-04-16/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/a-map-of-friction-2026-04-01/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/a-map-of-friction-2026-04-01/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/a-gentle-rollback-2026-04-21/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/a-gentle-rollback-2026-04-21/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/a-friendly-default-2026-03-22/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/a-friendly-default-2026-03-22/</loc>
     <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/a-durable-format-2026-04-29/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/a-durable-format-2026-04-29/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/a-clearer-error-2026-04-11/</loc>
+    <loc>http://localhost:1313/newsboat-blog/posts/a-clearer-error-2026-04-11/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://localhost:1313/newsboat-blog/categories/</loc>
   </url>
 </urlset>

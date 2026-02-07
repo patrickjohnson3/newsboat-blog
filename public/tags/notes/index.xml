@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Newsboat Blog</title>
-    <link>http://example.org/tags/notes/</link>
+    <link>http://localhost:1313/newsboat-blog/tags/notes/</link>
     <description>Recent content in Notes on Newsboat Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/newsboat-blog/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading Logs as Compasses</title>
-      <link>http://example.org/posts/reading-logs-as-compasses/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/reading-logs-as-compasses/</link>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/reading-logs-as-compasses/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/reading-logs-as-compasses/</guid>
       <description>&lt;p&gt;A reading log is not a list, it is a map of where your attention goes.&lt;/p&gt;&#xA;&lt;p&gt;Write the single line you would want to remember. That line is the compass point.&lt;/p&gt;&#xA;&lt;p&gt;After a month, patterns appear. Follow the pattern.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Daily Compass</title>
-      <link>http://example.org/posts/the-daily-compass-2026-05-01/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-daily-compass-2026-05-01/</link>
       <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-daily-compass-2026-05-01/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-daily-compass-2026-05-01/</guid>
       <description>&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;&#xA;&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Map of Friction</title>
-      <link>http://example.org/posts/a-map-of-friction-2026-04-01/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-map-of-friction-2026-04-01/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-map-of-friction-2026-04-01/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-map-of-friction-2026-04-01/</guid>
       <description>&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;&#xA;&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Gentle Rollback</title>
-      <link>http://example.org/posts/a-gentle-rollback-2026-04-21/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-gentle-rollback-2026-04-21/</link>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-gentle-rollback-2026-04-21/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-gentle-rollback-2026-04-21/</guid>
       <description>&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;&#xA;&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Friendly Default</title>
-      <link>http://example.org/posts/a-friendly-default-2026-03-22/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-friendly-default-2026-03-22/</link>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-friendly-default-2026-03-22/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-friendly-default-2026-03-22/</guid>
       <description>&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;&#xA;&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Clearer Error</title>
-      <link>http://example.org/posts/a-clearer-error-2026-04-11/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-clearer-error-2026-04-11/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-clearer-error-2026-04-11/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-clearer-error-2026-04-11/</guid>
       <description>&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;&#xA;&lt;p&gt;If a tool needs a tour, it is too large. Good tools disappear into the work.&lt;/p&gt;&#xA;&lt;p&gt;Write the note, then walk away. If it still matters tomorrow, it deserves the next pass.&lt;/p&gt;</description>
     </item>
   </channel>

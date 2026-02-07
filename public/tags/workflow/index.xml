@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workflow on Newsboat Blog</title>
-    <link>http://example.org/tags/workflow/</link>
+    <link>http://localhost:1313/newsboat-blog/tags/workflow/</link>
     <description>Recent content in Workflow on Newsboat Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/newsboat-blog/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inbox Zero Is a Shape, Not a Goal</title>
-      <link>http://example.org/posts/inbox-zero-is-a-shape-not-a-goal/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/inbox-zero-is-a-shape-not-a-goal/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/inbox-zero-is-a-shape-not-a-goal/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/inbox-zero-is-a-shape-not-a-goal/</guid>
       <description>&lt;p&gt;Inbox zero is the space to think, not the trophy. The point is to keep the lane clear, not to collect cleared lanes.&lt;/p&gt;&#xA;&lt;p&gt;Sort by intent: delete, delegate, defer, or do. Your future self is a teammate. Leave them an easy handoff.&lt;/p&gt;&#xA;&lt;p&gt;If you only do one thing today, trim the list so tomorrow feels possible.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Two Pass Review</title>
-      <link>http://example.org/posts/the-two-pass-review-2026-03-17/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-two-pass-review-2026-03-17/</link>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-two-pass-review-2026-03-17/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-two-pass-review-2026-03-17/</guid>
       <description>&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;&#xA;&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Five Minute Audit</title>
-      <link>http://example.org/posts/the-five-minute-audit-2026-04-06/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-five-minute-audit-2026-04-06/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-five-minute-audit-2026-04-06/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-five-minute-audit-2026-04-06/</guid>
       <description>&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;&#xA;&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meetings as Interfaces</title>
-      <link>http://example.org/posts/meetings-as-interfaces-2026-03-27/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/meetings-as-interfaces-2026-03-27/</link>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/meetings-as-interfaces-2026-03-27/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/meetings-as-interfaces-2026-03-27/</guid>
       <description>&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;&#xA;&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Simple Reading Plan</title>
-      <link>http://example.org/posts/a-simple-reading-plan-2026-04-26/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-simple-reading-plan-2026-04-26/</link>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-simple-reading-plan-2026-04-26/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-simple-reading-plan-2026-04-26/</guid>
       <description>&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;&#xA;&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Minimal Change Log</title>
-      <link>http://example.org/posts/a-minimal-change-log-2026-04-16/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/a-minimal-change-log-2026-04-16/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/a-minimal-change-log-2026-04-16/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/a-minimal-change-log-2026-04-16/</guid>
       <description>&lt;p&gt;The best workflows are boring and reliable. That reliability creates room for creative work.&lt;/p&gt;&#xA;&lt;p&gt;Defaults are where trust accumulates. Make the safest option the easiest.&lt;/p&gt;&#xA;&lt;p&gt;Fewer surfaces, fewer surprises. Keep the path short and the intent obvious.&lt;/p&gt;</description>
     </item>
   </channel>

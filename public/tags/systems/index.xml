@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systems on Newsboat Blog</title>
-    <link>http://example.org/tags/systems/</link>
+    <link>http://localhost:1313/newsboat-blog/tags/systems/</link>
     <description>Recent content in Systems on Newsboat Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/tags/systems/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/newsboat-blog/tags/systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Two Column Thinking</title>
-      <link>http://example.org/posts/two-column-thinking/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/two-column-thinking/</link>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/two-column-thinking/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/two-column-thinking/</guid>
       <description>&lt;p&gt;I keep a scratch column and a finished column. The left is messy, the right is careful.&lt;/p&gt;&#xA;&lt;p&gt;Moving a line to the right is a small ceremony. It makes the idea real.&lt;/p&gt;&#xA;&lt;p&gt;This tiny ritual keeps me honest about what I actually believe.&lt;/p&gt;</description>
     </item>
   </channel>

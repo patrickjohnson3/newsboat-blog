@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Defaults on Newsboat Blog</title>
-    <link>http://example.org/tags/defaults/</link>
+    <link>http://localhost:1313/newsboat-blog/tags/defaults/</link>
     <description>Recent content in Defaults on Newsboat Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/tags/defaults/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/newsboat-blog/tags/defaults/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Case for Boring Defaults</title>
-      <link>http://example.org/posts/the-case-for-boring-defaults/</link>
+      <link>http://localhost:1313/newsboat-blog/posts/the-case-for-boring-defaults/</link>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/the-case-for-boring-defaults/</guid>
+      <guid>http://localhost:1313/newsboat-blog/posts/the-case-for-boring-defaults/</guid>
       <description>&lt;p&gt;Defaults are where products go to be judged. Loud defaults feel like arrogance.&lt;/p&gt;&#xA;&lt;p&gt;A boring default gives users confidence. It is the quiet handshake that says: you are safe here.&lt;/p&gt;&#xA;&lt;p&gt;When in doubt, choose the setting that keeps data, reduces noise, and lowers surprise.&lt;/p&gt;</description>
     </item>
   </channel>

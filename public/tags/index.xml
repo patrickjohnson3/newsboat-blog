@@ -2,185 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Newsboat Blog</title>
-    <link>http://example.org/tags/</link>
+    <link>http://localhost:1313/newsboat-blog/tags/</link>
     <description>Recent content in Tags on Newsboat Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/newsboat-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Checklist</title>
-      <link>http://example.org/tags/checklist/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/checklist/</link>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/checklist/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/checklist/</guid>
       <description></description>
     </item>
     <item>
       <title>Launch</title>
-      <link>http://example.org/tags/launch/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/launch/</link>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/launch/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/launch/</guid>
       <description></description>
     </item>
     <item>
       <title>Focus</title>
-      <link>http://example.org/tags/focus/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/focus/</link>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/focus/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/focus/</guid>
       <description></description>
     </item>
     <item>
       <title>Habits</title>
-      <link>http://example.org/tags/habits/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/habits/</link>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/habits/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/habits/</guid>
       <description></description>
     </item>
     <item>
       <title>Notes</title>
-      <link>http://example.org/tags/notes/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/notes/</link>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/notes/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/notes/</guid>
       <description></description>
     </item>
     <item>
       <title>Reading</title>
-      <link>http://example.org/tags/reading/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/reading/</link>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/reading/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/reading/</guid>
       <description></description>
     </item>
     <item>
       <title>Systems</title>
-      <link>http://example.org/tags/systems/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/systems/</link>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/systems/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Writing</title>
-      <link>http://example.org/tags/writing/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/writing/</link>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/writing/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/writing/</guid>
       <description></description>
     </item>
     <item>
       <title>Defaults</title>
-      <link>http://example.org/tags/defaults/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/defaults/</link>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/defaults/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/defaults/</guid>
       <description></description>
     </item>
     <item>
       <title>Product</title>
-      <link>http://example.org/tags/product/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/product/</link>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/product/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/product/</guid>
       <description></description>
     </item>
     <item>
       <title>Design</title>
-      <link>http://example.org/tags/design/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/design/</link>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/design/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/design/</guid>
       <description></description>
     </item>
     <item>
       <title>Ux</title>
-      <link>http://example.org/tags/ux/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/ux/</link>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/ux/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/ux/</guid>
       <description></description>
     </item>
     <item>
       <title>Email</title>
-      <link>http://example.org/tags/email/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/email/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/email/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/email/</guid>
       <description></description>
     </item>
     <item>
       <title>Workflow</title>
-      <link>http://example.org/tags/workflow/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/workflow/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/workflow/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/workflow/</guid>
       <description></description>
     </item>
     <item>
       <title>Career</title>
-      <link>http://example.org/tags/career/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/career/</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/career/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/career/</guid>
       <description></description>
     </item>
     <item>
       <title>Craft</title>
-      <link>http://example.org/tags/craft/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/craft/</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/craft/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/craft/</guid>
       <description></description>
     </item>
     <item>
       <title>Engineering</title>
-      <link>http://example.org/tags/engineering/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/engineering/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/engineering/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Build</title>
-      <link>http://example.org/tags/build/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/build/</link>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/build/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/build/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools</title>
-      <link>http://example.org/tags/tools/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/tools/</link>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/tools/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Planning</title>
-      <link>http://example.org/tags/planning/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/planning/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/planning/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/planning/</guid>
       <description></description>
     </item>
     <item>
       <title>Process</title>
-      <link>http://example.org/tags/process/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/process/</link>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/process/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/process/</guid>
       <description></description>
     </item>
     <item>
       <title>Release</title>
-      <link>http://example.org/tags/release/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/release/</link>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/release/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/release/</guid>
       <description></description>
     </item>
     <item>
       <title>Performance</title>
-      <link>http://example.org/tags/performance/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/performance/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/performance/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/performance/</guid>
       <description></description>
     </item>
     <item>
       <title>Reflection</title>
-      <link>http://example.org/tags/reflection/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/reflection/</link>
       <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/reflection/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/reflection/</guid>
       <description></description>
     </item>
     <item>
       <title>Teams</title>
-      <link>http://example.org/tags/teams/</link>
+      <link>http://localhost:1313/newsboat-blog/tags/teams/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tags/teams/</guid>
+      <guid>http://localhost:1313/newsboat-blog/tags/teams/</guid>
       <description></description>
     </item>
   </channel>
