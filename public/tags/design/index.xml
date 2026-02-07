@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Newsboat Blog</title>
+    <link>http://example.org/tags/design/</link>
+    <description>Recent content in Design on Newsboat Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing for the First 5 Seconds</title>
+      <link>http://example.org/posts/designing-for-the-first-5-seconds/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/designing-for-the-first-5-seconds/</guid>
+      <description>&lt;p&gt;People decide to stay in the first five seconds. Clarity beats cleverness in that window.&lt;/p&gt;&#xA;&lt;p&gt;One headline, one action, one promise. Then deliver on it without interruption.&lt;/p&gt;&#xA;&lt;p&gt;Earn the second five seconds, and the rest gets easy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Trust Ledger</title>
+      <link>http://example.org/posts/the-trust-ledger-2026-04-05/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/the-trust-ledger-2026-04-05/</guid>
+      <description>&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Small Manifesto for Quiet Interfaces</title>
+      <link>http://example.org/posts/a-small-manifesto-for-quiet-interfaces/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/a-small-manifesto-for-quiet-interfaces/</guid>
+      <description>&lt;p&gt;News readers are built for flow: scan, select, dive, return. In a world of infinite scrolling and decorative chrome, the calm interface is a radical choice.&lt;/p&gt;&#xA;&lt;p&gt;This blog is an experiment in restraint: no popups, no attention traps, just clean type and a fast way in and out.&lt;/p&gt;&#xA;&lt;p&gt;When interfaces are quiet, content feels louder. It lets your thoughts meet the text without fighting the UI.&lt;/p&gt;&#xA;&lt;p&gt;So today, here&amp;rsquo;s the manifesto: give the reader a path. Make the path reliable. Let the words do the work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Quiet Shortcut</title>
+      <link>http://example.org/posts/the-quiet-shortcut-2026-04-25/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/the-quiet-shortcut-2026-04-25/</guid>
+      <description>&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quiet Systems in Motion</title>
+      <link>http://example.org/posts/quiet-systems-in-motion-2026-03-16/</link>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/quiet-systems-in-motion-2026-03-16/</guid>
+      <description>&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fewer Alerts, Better Work</title>
+      <link>http://example.org/posts/fewer-alerts-better-work-2026-03-26/</link>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/fewer-alerts-better-work-2026-03-26/</guid>
+      <description>&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Clarity Over Clever</title>
+      <link>http://example.org/posts/clarity-over-clever-2026-04-15/</link>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://example.org/posts/clarity-over-clever-2026-04-15/</guid>
+      <description>&lt;p&gt;Keep the system small enough to see. When every step is visible, the next decision is easy.&lt;/p&gt;&#xA;&lt;p&gt;A tiny review catches big drift. Five minutes now saves an hour later.&lt;/p&gt;&#xA;&lt;p&gt;Clarity is a feature. The first line should survive a scan and still be true.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
