@@ -1,6 +1,7 @@
 (() => {
   const statusText = document.getElementById("statusText");
   const detailBody = document.getElementById("detailBody");
+  const listUrl = document.body?.dataset?.listUrl || "/";
 
   if (statusText) {
     statusText.textContent = "Reading. Use Up / Down to scroll, Left to return.";
@@ -13,7 +14,7 @@
     }
 
     if (key === "ArrowLeft") {
-      window.location.href = "/";
+      window.location.href = listUrl;
     }
     if (key === "ArrowUp") {
       detailBody.scrollBy({ top: -120, behavior: "smooth" });

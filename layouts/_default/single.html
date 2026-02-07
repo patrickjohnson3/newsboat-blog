@@ -3,7 +3,7 @@
   <head>
     {{ partial "head.html" . }}
   </head>
-  <body>
+  <body data-list-url="{{ "/" | relURL }}">
     <div class="app" id="app">
       <header>
         <div class="brand"><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></div>
