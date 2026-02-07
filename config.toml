@@ -10,8 +10,5 @@ title = "Newsboat Blog"
 enableRobotsTXT = true
 buildFuture = false
 
-[build]
-  buildFuture = false
-
 [params]
   description = "A quiet, keyboard-driven blog experience."
