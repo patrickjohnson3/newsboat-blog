@@ -1,6 +1,6 @@
 ---
 title: "What a Status Page Should Say"
-date: 2026-03-15
+date: 2026-02-07
 readTime: "4 min"
 tags:
   - ops

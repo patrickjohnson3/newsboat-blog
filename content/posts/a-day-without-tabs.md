@@ -1,6 +1,6 @@
 ---
 title: "A Day Without Tabs"
-date: 2026-02-16
+date: 2026-02-07
 readTime: "5 min"
 tags:
   - focus

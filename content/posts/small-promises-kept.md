@@ -1,6 +1,6 @@
 ---
 title: "Small Promises, Kept"
-date: 2026-02-22
+date: 2026-02-07
 readTime: "3 min"
 tags:
   - trust

@@ -1,6 +1,6 @@
 ---
 title: "Logs That Read Like Stories"
-date: 2026-02-13
+date: 2026-02-07
 readTime: "4 min"
 tags:
   - engineering

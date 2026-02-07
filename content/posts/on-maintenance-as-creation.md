@@ -1,6 +1,6 @@
 ---
 title: "On Maintenance as Creation"
-date: 2026-02-21
+date: 2026-02-07
 readTime: "4 min"
 tags:
   - maintenance

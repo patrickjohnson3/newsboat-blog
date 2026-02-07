@@ -1,6 +1,6 @@
 ---
 title: "A Note on Naming Things"
-date: 2026-02-08
+date: 2026-02-07
 readTime: "3 min"
 tags:
   - naming

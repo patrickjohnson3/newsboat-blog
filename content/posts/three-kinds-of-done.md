@@ -1,6 +1,6 @@
 ---
 title: "Three Kinds of Done"
-date: 2026-03-13
+date: 2026-02-07
 readTime: "4 min"
 tags:
   - process

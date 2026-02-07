@@ -1,6 +1,6 @@
 ---
 title: "Quiet Power Users"
-date: 2026-03-14
+date: 2026-02-07
 readTime: "3 min"
 tags:
   - users

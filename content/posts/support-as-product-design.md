@@ -1,6 +1,6 @@
 ---
 title: "Support as Product Design"
-date: 2026-02-11
+date: 2026-02-07
 readTime: "4 min"
 tags:
   - support

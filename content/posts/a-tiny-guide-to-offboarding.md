@@ -1,6 +1,6 @@
 ---
 title: "A Tiny Guide to Offboarding"
-date: 2026-03-03
+date: 2026-02-07
 readTime: "4 min"
 tags:
   - teams

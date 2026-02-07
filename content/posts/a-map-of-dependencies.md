@@ -1,6 +1,6 @@
 ---
 title: "A Map of Dependencies"
-date: 2026-03-11
+date: 2026-02-07
 readTime: "4 min"
 tags:
   - engineering

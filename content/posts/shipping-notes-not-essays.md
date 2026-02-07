@@ -1,6 +1,6 @@
 ---
 title: "Shipping Notes, Not Essays"
-date: 2026-02-15
+date: 2026-02-07
 readTime: "4 min"
 tags:
   - writing

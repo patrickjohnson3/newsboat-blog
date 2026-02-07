@@ -1,6 +1,6 @@
 ---
 title: "The One Inbox Rule"
-date: 2026-03-09
+date: 2026-02-07
 readTime: "3 min"
 tags:
   - workflow

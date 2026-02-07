@@ -1,6 +1,6 @@
 ---
 title: "The One Screen Rule"
-date: 2026-02-12
+date: 2026-02-07
 readTime: "3 min"
 tags:
   - design

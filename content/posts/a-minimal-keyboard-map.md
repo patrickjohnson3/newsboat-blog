@@ -1,6 +1,6 @@
 ---
 title: "A Minimal Keyboard Map"
-date: 2026-02-20
+date: 2026-02-07
 readTime: "3 min"
 tags:
   - tools

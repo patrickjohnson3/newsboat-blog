@@ -1,6 +1,6 @@
 ---
 title: "The Gentle Release"
-date: 2026-02-25
+date: 2026-02-07
 readTime: "4 min"
 tags:
   - release

@@ -1,6 +1,6 @@
 ---
 title: "The Shortcut Audit"
-date: 2026-03-04
+date: 2026-02-07
 readTime: "3 min"
 tags:
   - tools

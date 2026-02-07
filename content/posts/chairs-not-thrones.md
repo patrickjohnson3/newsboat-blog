@@ -1,6 +1,6 @@
 ---
 title: "Chairs, Not Thrones"
-date: 2026-02-24
+date: 2026-02-07
 readTime: "4 min"
 tags:
   - leadership

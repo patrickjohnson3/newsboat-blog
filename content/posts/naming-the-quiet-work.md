@@ -1,6 +1,6 @@
 ---
 title: "Naming the Quiet Work"
-date: 2026-03-08
+date: 2026-02-07
 readTime: "3 min"
 tags:
   - craft

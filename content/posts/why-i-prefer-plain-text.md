@@ -1,6 +1,6 @@
 ---
 title: "Why I Prefer Plain Text"
-date: 2026-02-17
+date: 2026-02-07
 readTime: "4 min"
 tags:
   - tools

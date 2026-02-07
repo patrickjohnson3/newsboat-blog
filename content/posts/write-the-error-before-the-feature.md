@@ -1,6 +1,6 @@
 ---
 title: "Write the Error Before the Feature"
-date: 2026-02-26
+date: 2026-02-07
 readTime: "3 min"
 tags:
   - engineering
