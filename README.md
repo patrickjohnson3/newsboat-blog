@@ -2,6 +2,10 @@
 
 A Newsboat-inspired blog template built with Hugo.
 
+## Live Site
+
+[patrickjohnson3.github.io/newsboat-blog](https://patrickjohnson3.github.io/newsboat-blog/)
+
 ## Requirements
 
 - Hugo (extended recommended)
