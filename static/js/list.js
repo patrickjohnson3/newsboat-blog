@@ -29,7 +29,9 @@
 
   const openSelected = () => {
     const rows = getRows();
-    const link = rows[selectedIndex].querySelector("a");
+    const row = rows[selectedIndex];
+    if (!row) return;
+    const link = row.querySelector("a");
     if (link) window.location.href = link.href;
   };
 

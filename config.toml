@@ -8,10 +8,10 @@ title = "Newsboat Blog"
   pagerSize = 25
 
 enableRobotsTXT = true
-buildFuture = true
+buildFuture = false
 
 [build]
-  buildFuture = true
+  buildFuture = false
 
 [params]
   description = "A quiet, keyboard-driven blog experience."

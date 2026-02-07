@@ -17,9 +17,11 @@
       window.location.href = listUrl;
     }
     if (key === "ArrowUp") {
+      if (!detailBody) return;
       detailBody.scrollBy({ top: -120, behavior: "smooth" });
     }
     if (key === "ArrowDown") {
+      if (!detailBody) return;
       detailBody.scrollBy({ top: 120, behavior: "smooth" });
     }
   };
