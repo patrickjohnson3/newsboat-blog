@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Newsboat Blog"
+#[pagination]
+#  pagerSize = 100
+
+[pagination]
+  pagerSize = 25
+
+enableRobotsTXT = true
+buildFuture = true
+
+[build]
+  buildFuture = true
+
+[params]
+  description = "A quiet, keyboard-driven blog experience."
