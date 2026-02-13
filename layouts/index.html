@@ -16,24 +16,7 @@
         {{ $paginator := .Paginate $posts }}
         <div class="list-view" id="listView" data-next="{{ with $paginator.Next }}{{ .URL }}{{ end }}" data-total="{{ len $posts }}">
           {{ range $i, $p := $paginator.Pages }}
-            <div class="row" data-index="{{ $i }}">
-              <div class="meta">{{ $p.Date.Format "Jan 02, 2006" }}</div>
-              <div class="sep">|</div>
-              <div class="title-wrap">
-                <a class="title" href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>{{ with $p.Params.tags }}<span class="tags"> — [{{ delimit . ", " }}]</span>{{ end }}
-                <div class="mobile-meta">
-                  <span class="mobile-date">{{ $p.Date.Format "Jan 02, 2006" }}</span>
-                  {{ with $p.Params.tags }}
-                    <span class="mobile-dash">—</span>
-                    <span class="mobile-tags">
-                      {{- range $j, $tag := . -}}
-                        <span class="tag-chip">{{ $tag }}</span>
-                      {{- end -}}
-                    </span>
-                  {{ end }}
-                </div>
-              </div>
-            </div>
+            {{ partial "post-row.html" (dict "i" $i "p" $p) }}
           {{ end }}
           <div class="sentinel" id="sentinel"></div>
         </div>

@@ -1,0 +1,18 @@
+<div class="row" data-index="{{ .i }}">
+  <div class="meta">{{ .p.Date.Format "Jan 02, 2006" }}</div>
+  <div class="sep">|</div>
+  <div class="title-wrap">
+    <a class="title" href="{{ .p.RelPermalink }}">{{ .p.Title }}</a>{{ with .p.Params.tags }}<span class="tags"> — [{{ delimit . ", " }}]</span>{{ end }}
+    <div class="mobile-meta">
+      <span class="mobile-date">{{ .p.Date.Format "Jan 02, 2006" }}</span>
+      {{ with .p.Params.tags }}
+        <span class="mobile-dash">—</span>
+        <span class="mobile-tags">
+          {{- range $j, $tag := . -}}
+            <span class="tag-chip">{{ $tag }}</span>
+          {{- end -}}
+        </span>
+      {{ end }}
+    </div>
+  </div>
+</div>
