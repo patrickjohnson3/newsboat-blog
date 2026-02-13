@@ -131,6 +131,27 @@
       setActive(selectedIndex);
     }
     saveSelection(row);
+
+    // Keep native anchor behavior if a link was directly clicked.
+    const clicked = event.target;
+    if (clicked instanceof HTMLElement && clicked.closest("a")) return;
+
+    const link = row.querySelector("a");
+    if (link) {
+      window.location.href = link.href;
+    }
+  });
+
+  // On desktop, keep active highlight synced with mouse hover.
+  listView.addEventListener("mousemove", (event) => {
+    const row = event.target.closest(".row");
+    if (!row) return;
+    const rows = getRows();
+    const index = rows.indexOf(row);
+    if (index >= 0 && index !== selectedIndex) {
+      selectedIndex = index;
+      setActive(selectedIndex);
+    }
   });
 
   const batchSize = () => {
