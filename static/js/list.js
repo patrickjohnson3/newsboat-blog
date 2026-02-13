@@ -103,6 +103,7 @@
   };
 
   const updateCount = () => {
+    if (!countPill) return;
     const total = listView.dataset.total;
     if (total) {
       countPill.textContent = `${total} posts`;
@@ -116,9 +117,11 @@
     setActive(selectedIndex);
   }
   updateCount();
-  statusText.textContent = isTouch
-    ? "Browsing posts."
-    : "Browsing posts. Use Up / Down to move, Right to open.";
+  if (statusText) {
+    statusText.textContent = isTouch
+      ? "Browsing posts."
+      : "Browsing posts. Use Up / Down to move, Right to open.";
+  }
   document.addEventListener("keydown", handleKey);
 
   listView.addEventListener("click", (event) => {
