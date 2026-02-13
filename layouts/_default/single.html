@@ -23,12 +23,13 @@
             {{ with .GetTerms "tags" }}
               <div class="detail-tags-sep" aria-hidden="true"></div>
               <div class="detail-tags">
-                <span class="detail-tags-label">Tags:</span> [
+                <span class="detail-tags-label">Tags:</span>
+                <span class="detail-tag-list">
                 {{- range $i, $term := . -}}
-                  {{- if gt $i 0 }}, {{ end -}}
-                  <a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>
+                  <a class="detail-tag-chip" href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>
                 {{- end -}}
-              ]</div>
+                </span>
+              </div>
             {{ end }}
           </div>
         </div>

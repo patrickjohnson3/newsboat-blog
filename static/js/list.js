@@ -4,6 +4,7 @@
   const countPill = document.getElementById("countPill");
   const statusText = document.getElementById("statusText");
   const backOnLeft = document.body?.dataset?.backOnLeft || "";
+  const isTouch = window.matchMedia("(pointer: coarse)").matches || "ontouchstart" in window;
 
   if (!listView) return;
 
@@ -115,7 +116,9 @@
     setActive(selectedIndex);
   }
   updateCount();
-  statusText.textContent = "Browsing posts. Use Up / Down to move, Right to open.";
+  statusText.textContent = isTouch
+    ? "Browsing posts."
+    : "Browsing posts. Use Up / Down to move, Right to open.";
   document.addEventListener("keydown", handleKey);
 
   listView.addEventListener("click", (event) => {

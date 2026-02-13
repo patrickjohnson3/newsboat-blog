@@ -2,9 +2,12 @@
   const statusText = document.getElementById("statusText");
   const detailBody = document.getElementById("detailBody");
   const listUrl = document.body?.dataset?.listUrl || "/";
+  const isTouch = window.matchMedia("(pointer: coarse)").matches || "ontouchstart" in window;
 
   if (statusText) {
-    statusText.textContent = "Reading. Use Up / Down to scroll, Left to return.";
+    statusText.textContent = isTouch
+      ? "Reading."
+      : "Reading. Use Up / Down to scroll, Left to return.";
   }
 
   const shouldIgnoreKeyEvent = (event) => {
