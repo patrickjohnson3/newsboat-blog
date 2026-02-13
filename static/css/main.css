@@ -22,6 +22,12 @@ html, body {
   font-family: "JetBrains Mono", "Fira Code", "SFMono-Regular", Menlo, Consolas, monospace;
   letter-spacing: 0.2px;
   font-size: 14px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+body.infinite,
+body[data-list-url] {
   overflow: hidden;
 }
 
@@ -286,7 +292,8 @@ footer {
     display: none;
   }
 
-  html, body {
+  body.infinite,
+  body[data-list-url] {
     overflow: hidden;
   }
 
