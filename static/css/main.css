@@ -41,9 +41,11 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  min-height: 28px;
 }
 
 .brand {
+  display: block;
   font-size: 20px;
   font-weight: 600;
   text-transform: uppercase;
@@ -51,7 +53,7 @@ header {
 }
 
 .hint {
-  display: none;
+  display: block;
   color: var(--muted);
   font-size: 13px;
 }
@@ -280,6 +282,10 @@ footer {
 }
 
 @media (max-width: 720px) {
+  .hint {
+    display: none;
+  }
+
   html, body {
     overflow: hidden;
   }
@@ -290,6 +296,7 @@ footer {
   }
 
   .brand {
+    display: block;
     font-size: 15px;
     letter-spacing: 1px;
     text-transform: none;
