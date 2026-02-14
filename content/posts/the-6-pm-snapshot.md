@@ -1,6 +1,6 @@
 ---
 title: "The 6 PM Snapshot"
-date: 2026-02-07
+date: 2026-01-17
 readTime: "3 min"
 tags:
   - habits

@@ -1,6 +1,6 @@
 ---
 title: "How to End a Meeting"
-date: 2026-02-07
+date: 2026-01-29
 readTime: "3 min"
 tags:
   - meetings

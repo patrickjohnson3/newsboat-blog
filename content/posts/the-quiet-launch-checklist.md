@@ -1,6 +1,6 @@
 ---
 title: "The Quiet Launch Checklist"
-date: 2026-02-07
+date: 2026-01-11
 readTime: "5 min"
 tags:
   - launch

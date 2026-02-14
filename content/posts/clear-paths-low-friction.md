@@ -1,6 +1,6 @@
 ---
 title: "Clear Paths, Low Friction"
-date: 2026-02-07
+date: 2026-01-31
 readTime: "4 min"
 tags:
   - product

@@ -1,6 +1,6 @@
 ---
 title: "The Evening Diff"
-date: 2026-02-07
+date: 2026-01-16
 readTime: "4 min"
 tags:
   - reflection

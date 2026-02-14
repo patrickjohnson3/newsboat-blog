@@ -1,6 +1,6 @@
 ---
 title: "The Smallest Useful Feature"
-date: 2026-02-07
+date: 2026-01-09
 readTime: "3 min"
 tags:
   - product

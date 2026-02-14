@@ -1,6 +1,6 @@
 ---
 title: "Writing for Scan First"
-date: 2026-02-07
+date: 2026-01-02
 readTime: "4 min"
 tags:
   - writing

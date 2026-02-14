@@ -1,6 +1,6 @@
 ---
 title: "What I Track, What I Ignore"
-date: 2026-02-07
+date: 2026-01-05
 readTime: "4 min"
 tags:
   - metrics

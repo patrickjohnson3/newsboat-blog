@@ -1,6 +1,6 @@
 ---
 title: "A Note on Sparse Interfaces"
-date: 2026-02-07
+date: 2026-02-03
 readTime: "3 min"
 tags:
   - design

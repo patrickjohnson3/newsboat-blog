@@ -1,6 +1,6 @@
 ---
 title: "Stop Writing TODO, Start Writing WHEN"
-date: 2026-02-07
+date: 2026-01-21
 readTime: "3 min"
 tags:
   - habits

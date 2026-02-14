@@ -1,6 +1,6 @@
 ---
 title: "The Two Minute Follow Up"
-date: 2026-02-07
+date: 2026-01-08
 readTime: "3 min"
 tags:
   - communication

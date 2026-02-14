@@ -1,6 +1,6 @@
 ---
 title: "The 30 Line Morning"
-date: 2026-02-07
+date: 2026-01-18
 readTime: "3 min"
 tags:
   - writing

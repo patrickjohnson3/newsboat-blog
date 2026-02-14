@@ -1,6 +1,6 @@
 ---
 title: "Latency Is a Feeling"
-date: 2026-02-07
+date: 2026-01-28
 readTime: "4 min"
 tags:
   - performance

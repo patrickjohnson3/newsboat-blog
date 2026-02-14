@@ -1,6 +1,6 @@
 ---
 title: "The One Sentence Spec"
-date: 2026-02-07
+date: 2026-01-12
 readTime: "3 min"
 tags:
   - product

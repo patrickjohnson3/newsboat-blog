@@ -1,6 +1,6 @@
 ---
 title: "The 15 Minute Refactor"
-date: 2026-02-07
+date: 2026-01-19
 readTime: "3 min"
 tags:
   - engineering

@@ -1,6 +1,6 @@
 ---
 title: "Four Questions Before You Say Yes"
-date: 2026-02-07
+date: 2026-01-30
 readTime: "4 min"
 tags:
   - career
